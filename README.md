@@ -2,7 +2,7 @@
 
 > 本仓库用于存放针对 **Python 3.x + Selenium 3.x 自动化讲堂** 的思维导图的案例描述及演示代码。
 
-点击[Python 3.x + Selenium 3.x 自动化讲堂思维导图](https://www.processon.com/mindmap/5e5a6e4be4b0c037b607ac1a)可访问完整思维导图。
+点击[Python 3.x + Selenium 3.x 自动化讲堂思维导图](https://www.processon.com/view/5e5a6e4be4b0c037b607ac1a#map)可访问完整思维导图。
 
 ## 1. 第一节 理论指导
 
