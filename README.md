@@ -1,4 +1,4 @@
-# bljt_auto_test_by_selenium
+# web_automation_test_lecture
 
 > 本仓库用于存放针对 **Python 3.x + Selenium 3.x 自动化讲堂** 的思维导图的案例描述及演示代码。
 
@@ -47,6 +47,6 @@
 
 项目平台：http://iwebsns.bljt.top/
 
-## 7. 第七节 推荐书籍
+## 7. 第七节 资源推荐
 
 [《Selenium官方文档》](https://www.selenium.dev/selenium/docs/api/py/index.html)
