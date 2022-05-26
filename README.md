@@ -2,7 +2,7 @@
 
 > 本仓库用于存放针对 **Python 3.x + Selenium 3.x 自动化讲堂** 的思维导图的案例描述及演示代码。
 
-点击[Python 3.x + Selenium 3.x 自动化讲堂思维导图](https://www.processon.com/view/5e5a6e4be4b0c037b607ac1a#map)可访问完整思维导图。
+点击[Python 3.x + Selenium 3.x 自动化讲堂思维导图](https://www.processon.com/u/5ac6d735e4b00dc8a02f3113/profile#pc)可访问完整思维导图。
 
 ## 1. 第一节 理论指导
 
@@ -21,7 +21,7 @@
 
 任务描述：针对被测程序的登录模块，应用决策表法编写至少8条用例，并将其脚本化。
 
-项目平台：http://iwebsns.bljt.top/
+项目平台：http://iwebsns.pansaifei.com/
 
 ## 3. 第三节 案例驱动（中）
 
@@ -29,7 +29,7 @@
 
 任务描述：针对被测程序的注册场景，编写注册功能的自动化测试脚本，实现测试报告的生成及邮件发送。
 
-项目平台：http://iwebsns.bljt.top/
+项目平台：http://iwebsns.pansaifei.com/
 
 ## 4. 第四节 案例驱动（下）
 
@@ -37,7 +37,7 @@
 
 任务描述：针对被测程序的登录和注册场景，应用POM设计模式编写自动化测试脚本，实现测试报告的生成及邮件发送。
 
-项目平台：http://iwebsns.bljt.top/
+项目平台：http://iwebsns.pansaifei.com/
 
 ## 5. 第五、六节 扩展技能 & 综合案例
 
@@ -45,7 +45,7 @@
 
 任务描述：针对被测项目注册模块、登录（登录、注销）模块、日志模块（创建、编辑、删除、查看日志）编写自动化测试脚本，实现测试报告的生成及邮件发送。
 
-项目平台：http://iwebsns.bljt.top/
+项目平台：http://iwebsns.pansaifei.com/
 
 ## 7. 第七节 资源推荐
 
